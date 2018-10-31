@@ -1,0 +1,136 @@
+
+.body-wrapper {
+    margin: 0 auto;
+    max-width: 500px;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.section-1 {
+    min-height: 305px;
+    background-image: url("https://s3.amazonaws.com/beyonddiet/optin/section-1-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.section-1-text {
+    color: white;
+    font-size: 2.0rem;
+    padding-top: 135px;
+    line-height: 158%;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.section-2 {
+    background-color: #fefdfc;
+}
+
+.section-2-headtext {
+    font-size: 1.50rem;
+    font-weight: 1000;
+    margin-top: 30px;
+}
+
+.section-2-text {
+    font-size: 1.5rem;
+    line-height: 150%;
+}
+
+.section-3 {
+    background-color: #2C2C28;
+    color: white;
+    border-bottom: 1px solid #F5EFC1;
+}
+
+.section-3-text {
+    font-size: 1.5rem;
+    line-height: 139%;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.section-35 {
+    background-color: #2C2C28;
+    color: white;
+}
+
+.section-35-text {
+    font-size: 1.5rem;
+    line-height: 139%;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.section-4 {
+    min-height: 305px;
+    background-image: url("https://s3.amazonaws.com/beyonddiet/optin/section-4-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 500px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.tan-font {
+    font-family: 'Parisienne', cursive;
+    font-size: 3.0rem;
+    color: #cca783;
+}
+
+.red-font {
+    font-family: 'Parisienne', cursive;
+    font-size: 3.0rem;
+    color: #C5493A;
+    line-height: 120%;
+}
+
+.bold {
+    font-size: 1.5rem;
+    font-weight: 900;
+    line-height: 90%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.section-5 {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.section-6 {
+    min-height: 445px;
+    background-image: url("https://s3.amazonaws.com/beyonddiet/optin/section-6-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.section-6-text {
+    color: white;
+    font-size: 1.75rem;
+    padding-top: 25px;
+    line-height: 124%;
+}
+
+.section-7-text {
+    font-size: 1.6rem;
+    padding-top: 30px;
+    line-height: 135%
+}
